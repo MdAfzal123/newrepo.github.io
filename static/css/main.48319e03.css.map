@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.48319e03.css","mappings":"AAAA,EACI,qBAAsB,CACzB,sBAAwB,CACxB,iBAAkB,CAClB,eACD","sources":["index.css"],"sourcesContent":["*{\r\n    background-color: aqua;\r\n border: 3px dotted black;\r\n margin-left: 200px;\r\n margin-top: 50px;\r\n}"],"names":[],"sourceRoot":""}
